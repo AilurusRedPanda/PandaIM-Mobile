@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PandaIM",
+    "slug": "PandaIM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PandaIM"
+}
