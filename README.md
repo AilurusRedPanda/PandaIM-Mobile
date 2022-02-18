@@ -1,0 +1,1 @@
+A simple instant messaging client for mobile.
